@@ -6,5 +6,12 @@ int main()
     printf("%d",a+b);
     printf("\n");
     printf("%d",a-b);
+    printf("\n");
+    printf("%d",a*b);
+    printf("\n");
+    printf("%d",a/b);
+    printf("\n");
+    printf("%d",a%b);
+    printf("\n");
     return 0;
 }
